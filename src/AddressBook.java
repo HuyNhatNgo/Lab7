@@ -1,6 +1,8 @@
 import java.util.Iterator;
 
-
+/*
+ * @author Yamashita
+ */
 public interface AddressBook {
 
    /** 
